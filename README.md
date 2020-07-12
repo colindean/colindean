@@ -11,6 +11,6 @@ Organizations I'm involved in:
 * [Code & Supply Scholarship Fund](https://codeandsupply.fund) ([gitlab](https://gitlab.com/codeandsupplyfund)), a non-profit that helps folks attend and speak at conferences in Pittsburgh and beyond
 * [Homebrew](https://brew.sh) ([github](https://github.com/homebrew)), the missing package manager for macOS (and Linux)
 
-Want to help me out? [Donate to CSSF](https://codeandsupply.fund/donate) or [Donate to MMWC](https://metamesh.org).
+Want to help me out? [Donate to CSSF](https://codeandsupply.fund/donate), [Donate to MMWC](https://metamesh.org), or [join C&S](https://codeandsupply.co/join) as an individual or corporate member.
 
 Cheers!
