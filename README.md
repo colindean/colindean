@@ -1,4 +1,4 @@
-### Hi there 🎩
+### Howdy 🎩
 
 I am a software engineer and community builder who uses technology to unite people and help them discover the answers to their questions through meaningful and delightful interaction.
 
@@ -12,3 +12,5 @@ Organizations I'm involved in:
 * [Homebrew](https://brew.sh) ([github](https://github.com/homebrew)), the missing package manager for macOS (and Linux)
 
 Want to help me out? [Donate to CSSF](https://codeandsupply.fund/donate) or [Donate to MMWC](https://metamesh.org).
+
+Cheers!
