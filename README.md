@@ -1,6 +1,6 @@
 ### Howdy 🎩
 
-I am a software engineer and community builder who uses technology to unite people and help them discover the answers to their questions through meaningful and delightful interaction.
+I am a software engineer and community builder who uses technology to unite people and help them discover the answers to their questions through meaningful and delightful interaction. I [speak at conferences](https://github.com/colindean/talks) and have run conferences and conventions since I was 17 years old.
 
 I keep some projects here on GitHub but also some on [GitLab](https://gitlab.com/colindean) and maybe something on [Sourcehut](https://sr.ht/~colindean/) or [BitBucket](https://bitbucket.com/colindean) with old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
 
