@@ -14,3 +14,24 @@ Organizations I'm involved in:
 Want to help me out? [Donate to CSSF](https://codeandsupply.fund/donate), [Donate to MMWC](https://metamesh.org), or [join C&S](https://codeandsupply.co/join) as an individual or corporate member.
 
 Cheers!
+
+<p align="center">
+	<a href="https://twitter.com/colindean">
+    <img src="https://img.shields.io/twitter/follow/colindean?label=Twitter&style=social" alt="Twitter">
+  </a>
+	<a href="https://www.twitch.tv/rhettigan">
+    <img src="https://img.shields.io/twitch/status/rhettigan?style=social" alt="Twitch">
+  </a>
+	<a href="https://www.linkedin.com/in/colindean">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://mastodon.social/web/@colindean">
+    <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/000219687?domain=https%3A%2F%2Fmastodon.social&style=social">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sponsors/colindean/">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/colindean">
+  </a>
+
+<small>
