@@ -6,7 +6,7 @@ I keep some projects here on GitHub but also some on [GitLab](https://gitlab.com
 
 Organizations I'm involved in:
 
-* [Code & Supply](https://codeandsupply.co) ([gitlab](https://gitlab.com/codeandsupply) & [github](https://github.com/codeandsupply)), Pittsburgh's premeire community of software professionals that hosts meetups, conferences like [Abstractions](https://abstractions.io) and [Heartifacts](https://heartifacts.codeandsupply.co), and runs a co-working space oriented toward software folks.
+* [Code & Supply](https://codeandsupply.co) ([gitlab](https://gitlab.com/codeandsupply) & [github](https://github.com/codeandsupply)), Pittsburgh's premiere community of software professionals that hosts meetups, conferences like [Abstractions](https://abstractions.io) and [Heartifacts](https://heartifacts.codeandsupply.co), and runs a co-working space oriented toward software folks.
 * [Meta Mesh Wireless Communities](https://metamesh.org) ([github](https://github.com/metamesh)), a Pittsburgh-based non-profit bridging the digital divide by bringing Internet connectivity to those without it
 * [Code & Supply Scholarship Fund](https://codeandsupply.fund) ([gitlab](https://gitlab.com/codeandsupplyfund)), a non-profit that helps folks attend and speak at conferences in Pittsburgh and beyond
 * [Homebrew](https://brew.sh) ([github](https://github.com/homebrew)), the missing package manager for macOS (and Linux)
