@@ -22,7 +22,7 @@ Cheers!
 
 <p align="center">
   <a rel="me" href="https://twitter.com/colindean">
-    <img src="https://img.shields.io/twitter/follow/colindean?label=Twitter&style=social" alt="Twitter">
+    <img src="https://img.shields.io/badge/follow-%40colindean-1DA1F2?label=Twitter&style=social&logo=twitter" alt="Twitter">
   </a>
   <a rel="me" href="https://www.twitch.tv/rhettigan">
     <img src="https://img.shields.io/twitch/status/rhettigan?style=social" alt="Twitch">
