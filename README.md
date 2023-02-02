@@ -40,7 +40,7 @@ Cheers!
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/colindean/">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/colindean">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/colindean?style=social&logo=github">
   </a>
 
 <small>
