@@ -1,8 +1,8 @@
-### 🎩 Hello! Saluton! Salve!
+### 🎩 Hello! Saluton! Salve! Hoi!
 
-I am a software engineer and community builder who uses technology to unite people and help them discover the answers to their questions through meaningful and delightful interaction. I [speak at conferences](https://github.com/colindean/talks) and have run conferences and conventions since I was 17 years old.
+I am a software engineer and community builder who uses technology to unite people and help them discover the answers to their questions through meaningful and delightful interactions. I [speak at conferences](https://github.com/colindean/talks) and have run conferences and conventions since I was 17.
 
-I keep some projects here on GitHub but also some on [GitLab](https://gitlab.com/colindean).
+I keep some projects here on GitHub and some on [GitLab](https://gitlab.com/colindean).
 I might have something on [Sourcehut](https://sr.ht/~colindean/) with old stuff on [BitBucket](https://bitbucket.com/colindean) and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
 
 Organizations I'm involved in:
@@ -16,7 +16,7 @@ Want to help me out?
 [Join C&S to keep the lights on](https://codeandsupply.co/join) as an individual or corporate member or sponsor us,
 [donate to CSSF to fund tech conference travel grants](https://codeandsupply.fund/donate), or
 [donate to MMWC to help us build a more connected community](https://metamesh.org).
-You could also [sponsor me on GitHub sponsors](https://github.com/sponsors/colindean) and I'll put the money toward one of these or several other organizations I care about.
+You could also [sponsor me on GitHub sponsors](https://github.com/sponsors/colindean), and I'll put the money toward one of these or several other organizations I care about.
 
 Cheers!
 
