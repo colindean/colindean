@@ -45,6 +45,17 @@ Cheers!
   </a>
 </p>
 <p align="center">
+  <a rel="me" href="https://stackoverflow.com/users/204052/colin-dean">
+    <img alt="Stack Overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/204052?style=social&logo=stackoverflow&label=Stack%20Overflow">
+  </a>
+  <a rel="me" href="https://bitcoin.stackexchange.com/users/1409/colin-dean">
+    <img alt="Bitcoin Stack Exchange" src="https://img.shields.io/stackexchange/bitcoin/r/1409?style=social&logo=stackexchange&label=Bitcoin.SE">
+  </a>
+  <a rel="me" href="https://superuser.com/users/18292/colin-dean">
+    <img alt="Superuser" src="https://img.shields.io/stackexchange/superuser/r/18292?style=social&logo=superuser&label=Superuser">
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/sponsors/colindean/">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/colindean?style=social&logo=github">
   </a>
