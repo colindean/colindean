@@ -1,9 +1,15 @@
 ### 🎩 Hello! Saluton! Salve! Hoi!
 
-I am a software engineer and community builder who uses technology to unite people and help them discover the answers to their questions through meaningful and delightful interactions. I [speak at conferences](https://github.com/colindean/talks) and have run conferences and conventions since I was 17.
+I am [Colin Dean](https://itinerarium.github.io/phoneme-synthesis/?w=/kɒlen%20din/ "IPA: kɒlen din"),
+a software engineer and community builder who uses technology to unite people
+and help them discover the answers to their questions through meaningful and delightful interactions.
+I [speak at conferences](https://github.com/colindean/talks) and have run conferences and conventions since I was 17.
 
 I keep some projects here on GitHub and some on [GitLab](https://gitlab.com/colindean).
-I might have something on [Sourcehut](https://sr.ht/~colindean/) with old stuff on [BitBucket](https://bitbucket.com/colindean) and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
+I might have something on [Sourcehut](https://sr.ht/~colindean/)
+or [Pijul Nest](https://nest.pijul.com/colindean)
+with old stuff on [BitBucket](https://bitbucket.com/colindean)
+and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
 
 Organizations I'm involved in:
 
