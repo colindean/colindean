@@ -59,5 +59,7 @@ Cheers!
   <a href="https://github.com/sponsors/colindean/">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/colindean?style=social&logo=github">
   </a>
-
-<small>
+</p>
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colindean&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true">
+</p>
