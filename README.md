@@ -3,28 +3,41 @@
 I am [Colin Dean](https://itinerarium.github.io/phoneme-synthesis/?w=/kɒlen%20din/ "IPA: kɒlen din"),
 a software engineer and community builder who uses technology to unite people
 and help them discover the answers to their questions through meaningful and delightful interactions.
-I [speak at conferences](https://github.com/colindean/talks) and have run conferences and conventions since I was 17.
 
-I keep some projects here on GitHub and some on [GitLab](https://gitlab.com/colindean).
-I might have something on [Sourcehut](https://sr.ht/~colindean/)
-or [Pijul Nest](https://nest.pijul.com/colindean)
-with old stuff on [BitBucket](https://bitbucket.com/colindean)
-and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
+I [speak at conferences](https://github.com/colindean/talks "My talks repository") and have run conferences and conventions since I was 17
+and non-profits since I was 20.
+You can read more about me at [my website, cad.cx](https://cad.cx "Colin Dean's website").
 
-Organizations I'm involved in:
+#### Communicating with me
 
-* [Code & Supply](https://codeandsupply.co) ([gitlab](https://gitlab.com/codeandsupply) & [github](https://github.com/codeandsupply)), Pittsburgh's premiere community of software professionals that hosts meetups, conferences like [Abstractions](https://abstractions.io) and [Heartifacts](https://heartifacts.codeandsupply.co), and runs a [co-working space oriented toward software folks](https://codeandsupply.co/coworking).
-* [Community Internet Solutions](https://twitter.com/bringtheweb) (neé [Meta Mesh Wireless Communities](https://metamesh.org)) ([github](https://github.com/metamesh)), a Pittsburgh-based non-profit bridging the digital divide by bringing Internet connectivity to those without it
-* [Code & Supply Scholarship Fund](https://codeandsupply.fund) ([gitlab](https://gitlab.com/codeandsupplyfund)), a non-profit that helps folks attend and speak at conferences in Pittsburgh and beyond
-* [Homebrew](https://brew.sh) ([github](https://github.com/homebrew)), the missing package manager for macOS (and Linux)
+I prefer to engage in English.
+It's OK to ask me to repeat myself because my Pittsburghese accent sometimes gets in the way.
+I am a student of Esperanto since 2003, Latin since 1998, and Dutch since 2023.
 
-Want to help me out?
-[Join C&S to keep the lights on](https://codeandsupply.co/join) as an individual or corporate member or sponsor us,
-[donate to CSSF to fund tech conference travel grants](https://codeandsupply.fund/donate), or
-[donate to MMWC to help us build a more connected community](https://metamesh.org).
-You could also [sponsor me on GitHub sponsors](https://github.com/sponsors/colindean), and I'll put the money toward one of these or several other organizations I care about.
+#### Organizations in which I'm actively involved
+
+* <img src="https://www.cad.cx/images/2023/logos/codeandsupply.png" height="16px" alt="Code & Supply logo"/> [Code & Supply](https://codeandsupply.co) ([gitlab](https://gitlab.com/codeandsupply) & [github](https://github.com/codeandsupply)), Pittsburgh's premiere community of software professionals that hosts meetups, conferences like [Abstractions](https://abstractions.io) and [Heartifacts](https://heartifacts.codeandsupply.co), and runs a [co-working space oriented toward software folks](https://codeandsupply.co/coworking).
+* <img src="https://www.cad.cx/images/2023/logos/codeandsupplyfund.png" height="16px" alt="Code & Supply logo"/> [Code & Supply Scholarship Fund](https://codeandsupply.fund) ([gitlab](https://gitlab.com/codeandsupplyfund)), a non-profit that helps folks attend and speak at conferences in Pittsburgh and beyond
+* <img src="https://www.cad.cx/images/2023/logos/homebrew.svg" height="16px" alt="Homebrew logo"/> [Homebrew](https://brew.sh) ([github](https://github.com/homebrew)), the missing package manager for macOS (and Linux)
+* <img src="https://www.cad.cx/images/2023/logos/community_internet_solutions.png" height="16px" alt="Community Internet Solutions logo"/> [Community Internet Solutions](https://twitter.com/bringtheweb) (neé [Meta Mesh Wireless Communities](https://metamesh.org)) ([github](https://github.com/metamesh)), a Pittsburgh-based non-profit bridging the digital divide by bringing Internet connectivity to those without it
+
+#### Want to help me out?
+
+* **Support free and low-cost software community events** in Pittsburgh and a great **hyperlocal compensation survey effort** by
+  [joining C&S to keep the lights on](https://codeandsupply.co/join) as an individual or sponsor us as a business hiring or selling to software professionals.
+* **Remove money as a barrier to attending tech conferences** by
+  [donating to CSSF to fund tech conference travel grants](https://codeandsupply.fund/donate) as an individual, corporation, or foundation.
+* **Connect low-income, overlooked, and underserved communities to the Internet** by
+  [dontaing to CIS to help us build the generation non-profit Internet service provider](https://bringtheweb.org).
+* **Deliver up-to-date software safely and securely to macOS and Linux developers worldwide** by
+  [donating to Homebrew to help keep packages flowing](https://github.com/homebrew/brew#donations), esp. if you're a company with a budget and you use Macs for development
+
+You could also [sponsor me on GitHub sponsors](https://github.com/sponsors/colindean).
+I'll put the money toward one of these or several other organizations I care about.
 
 Cheers!
+
+#### Me on social media
 
 <p align="center">
   <a rel="me" href="https://twitter.com/colindean">
@@ -63,3 +76,11 @@ Cheers!
 <p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=colindean&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true">
 </p>
+
+#### Me on other code hosting sites
+
+I keep some projects here on GitHub and some on [GitLab](https://gitlab.com/colindean).
+I might have something on [Sourcehut](https://sr.ht/~colindean/)
+or [Pijul Nest](https://nest.pijul.com/colindean)
+with old stuff on [BitBucket](https://bitbucket.com/colindean)
+and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
