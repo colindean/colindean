@@ -88,5 +88,5 @@ or [Pijul Nest](https://nest.pijul.com/colindean)
 with old stuff on [BitBucket](https://bitbucket.com/colindean)
 and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
 
-[![Gem Owner](https://img.shields.io/gem/u/colindean)](https://rubygems.org/profiles/colindean)
+[![Colin Dean's RubyGems](https://img.shields.io/gem/u/colindean?style=social&logo=ruby&label=RubyGems)](https://rubygems.org/profiles/colindean)
 
