@@ -26,12 +26,12 @@ I've learned bits of some others [^other_langs].
 
 #### Want to help me out?
 
-* **Support free and low-cost software community events** in Pittsburgh and a great **hyperlocal compensation survey effort** by
+* **Support free and low-cost software community events** in Pittsburgh and a great [**hyperlocal compensation survey effort**](https://codeandsupply.co/survey) by
   [joining C&S to keep the lights on](https://codeandsupply.co/join) as an individual or sponsor us as a business hiring or selling to software professionals.
 * **Remove money as a barrier to attending tech conferences** by
   [donating to CSSF to fund tech conference travel grants](https://codeandsupply.fund/donate) as an individual, corporation, or foundation.
 * **Connect low-income, overlooked, and underserved communities to the Internet** by
-  [dontaing to CIS to help us build the generation non-profit Internet service provider](https://bringtheweb.org).
+  [donating to CIS to help us build the generation non-profit Internet service provider](https://bringtheweb.org).
 * **Deliver up-to-date software safely and securely to macOS and Linux developers worldwide** by
   [donating to Homebrew to help keep packages flowing](https://github.com/homebrew/brew#donations), esp. if you're a company with a budget and you use Macs for development
 
@@ -40,7 +40,7 @@ I'll put the money toward one of these or several other organizations I care abo
 
 Cheers!
 
-#### Me on social media
+#### Me on some social media
 
 <p align="center">
   <a rel="me" href="https://twitter.com/colindean">
@@ -87,3 +87,6 @@ I might have something on [Sourcehut](https://sr.ht/~colindean/)
 or [Pijul Nest](https://nest.pijul.com/colindean)
 with old stuff on [BitBucket](https://bitbucket.com/colindean)
 and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
+
+[![Gem Owner](https://img.shields.io/gem/u/colindean)](https://rubygems.org/profiles/colindean)
+
