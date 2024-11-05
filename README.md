@@ -4,15 +4,15 @@ I am [Colin Dean](https://itinerarium.github.io/phoneme-synthesis/?w=/kɒlen%20d
 a software engineer and community builder who uses technology to unite people
 and help them discover the answers to their questions through meaningful and delightful interactions.
 
-I [speak at conferences](https://github.com/colindean/talks "My talks repository") and have run conferences and conventions since I was 17
-and non-profits since I was 20.
+I [speak at conferences](https://github.com/colindean/talks "My talks repository") and have run conferences and conventions since 2002
+and non-profits since 2005.
 You can read more about me at [my website, cad.cx](https://cad.cx "Colin Dean's website").
 
 #### Communicating with me
 
 I prefer to engage in English.
 It's OK to ask me to repeat myself because my Pittsburghese accent sometimes gets in the way.
-In order of familiarity as of 2023, I am a student of Esperanto since 2003 and Dutch since 2023.
+As of 2024, I have been a student of Esperanto since 2003 and Dutch since 2023, in order of familiarity.
 I've learned bits of some others [^other_langs].
 
 [^other_langs]: I was nearly fluent in Latin, having studied 1998–2007. I have some knowledge of Spanish, French, and Portuguese, mostly thanks to Duolingo or high school language classes, but not enough to converse. 
@@ -22,7 +22,10 @@ I've learned bits of some others [^other_langs].
 * <img src="https://www.cad.cx/images/2023/logos/codeandsupply.png" height="16px" alt="Code & Supply logo"/> [Code & Supply](https://codeandsupply.co) ([gitlab](https://gitlab.com/codeandsupply) & [github](https://github.com/codeandsupply)), Pittsburgh's premiere community of software professionals that hosts meetups, conferences like [Abstractions](https://abstractions.io) and [Heartifacts](https://heartifacts.codeandsupply.co), and runs a [co-working space oriented toward software folks](https://codeandsupply.co/coworking).
 * <img src="https://www.cad.cx/images/2023/logos/codeandsupplyfund.png" height="16px" alt="Code & Supply logo"/> [Code & Supply Scholarship Fund](https://codeandsupply.fund) ([gitlab](https://gitlab.com/codeandsupplyfund)), a non-profit that helps folks attend and speak at conferences in Pittsburgh and beyond
 * <img src="https://www.cad.cx/images/2023/logos/homebrew.svg" height="16px" alt="Homebrew logo"/> [Homebrew](https://brew.sh) ([github](https://github.com/homebrew)), the missing package manager for macOS (and Linux)
-* <img src="https://www.cad.cx/images/2023/logos/community_internet_solutions.png" height="16px" alt="Community Internet Solutions logo"/> [Community Internet Solutions](https://twitter.com/bringtheweb) (neé [Meta Mesh Wireless Communities](https://metamesh.org)) ([github](https://github.com/metamesh)), a Pittsburgh-based non-profit bridging the digital divide by bringing Internet connectivity to those without it
+
+#### Past organizations
+
+* <img src="https://www.cad.cx/images/2023/logos/community_internet_solutions.png" height="16px" alt="Community Internet Solutions logo"/> [Community Internet Solutions](https://twitter.com/bringtheweb) (neé [Meta Mesh Wireless Communities](https://metamesh.org)) ([github](https://github.com/metamesh)), a Pittsburgh-based non-profit bridging the digital divide by bringing Internet connectivity to those without it. RIP 2012–2024.
 
 #### Want to help me out?
 
