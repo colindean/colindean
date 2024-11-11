@@ -15,7 +15,7 @@ It's OK to ask me to repeat myself because my Pittsburghese accent sometimes get
 As of 2024, I have been a student of Esperanto since 2003 and Dutch since 2023, in order of familiarity.
 I've learned bits of some others [^other_langs].
 
-[^other_langs]: I was nearly fluent in Latin, having studied 1998–2007. I have some knowledge of Spanish, French, and Portuguese, mostly thanks to Duolingo or high school language classes, but not enough to converse. 
+[^other_langs]: I was nearly fluent in Latin, having studied 1998–2007. I have some knowledge of Spanish, French, and Portuguese, mostly thanks to Duolingo or high school language classes, but not enough to converse.
 
 #### Organizations in which I'm actively involved
 
@@ -92,4 +92,3 @@ with old stuff on [BitBucket](https://bitbucket.com/colindean)
 and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
 
 [![Colin Dean's RubyGems](https://img.shields.io/gem/u/colindean?style=social&logo=ruby&label=RubyGems)](https://rubygems.org/profiles/colindean)
-
