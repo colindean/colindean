@@ -62,6 +62,9 @@ Cheers!
   <a rel="me" href="https://mastodon.social/@colindean">
     <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/000219687?domain=https%3A%2F%2Fmastodon.social&style=social">
   </a>
+  <a rel="me" href="https://bsky.app/profile/cad.cx">
+    <!-- TODO: https://github.com/badges/shields/issues/10788 -->
+    <img alt="BlueSky followers" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%2F%3Factor%3Dcad.cx&query=%24.followersCount&style=social&logo=bluesky&label=Follow%20%40cad.cx">
 </p>
 <p align="center">
   <a rel="me" href="https://stackoverflow.com/users/204052/colin-dean">
