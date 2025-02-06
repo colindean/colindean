@@ -33,10 +33,8 @@ I've learned bits of some others [^other_langs].
   [joining C&S to keep the lights on](https://codeandsupply.co/join) as an individual or sponsor us as a business hiring or selling to software professionals.
 * **Remove money as a barrier to attending tech conferences** by
   [donating to CSSF to fund tech conference travel grants](https://codeandsupply.fund/donate) as an individual, corporation, or foundation.
-* **Connect low-income, overlooked, and underserved communities to the Internet** by
-  [donating to CIS to help us build the generation non-profit Internet service provider](https://bringtheweb.org).
 * **Deliver up-to-date software safely and securely to macOS and Linux developers worldwide** by
-  [donating to Homebrew to help keep packages flowing](https://github.com/homebrew/brew#donations), esp. if you're a company with a budget and you use Macs for development
+  [donating to Homebrew to help keep packages flowing](https://github.com/homebrew/brew#donations), esp. if you're a company with a budget and you use Macs or non-root Linux clusters for development
 
 You could also [sponsor me on GitHub sponsors](https://github.com/sponsors/colindean).
 I'll put the money toward one of these or several other organizations I care about.
