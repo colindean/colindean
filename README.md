@@ -12,12 +12,14 @@ You can read more about me at [my website, cad.cx](https://cad.cx "Colin Dean's 
 
 I prefer to engage in English.
 It's OK to ask me to repeat myself because my [Pittsburghese accent][yinz] sometimes gets in the way.
-As of 2024, I have been a student of Esperanto since 2003 and Dutch since 2023, in order of familiarity.
+
+I have been studying Esperanto since 2003 and Dutch since 2023.
+As of 2025, I'm lightly conversational in Dutch and _ik zal graag om met jou een beetje Nederlands te spreken_… in the right context.
 I've learned bits of some others [^other_langs].
 
 [yinz]: https://en.wikipedia.org/wiki/Western_Pennsylvania_English
 
-[^other_langs]: I was nearly fluent in Latin, having studied 1998–2007. I have some knowledge of Spanish, French, and Portuguese, mostly thanks to Duolingo or high school language classes, but not enough to converse.
+[^other_langs]: I was nearly fluent in Latin, having studied 1998–2007. I have some knowledge of Korean, Spanish, French, and Portuguese, mostly thanks to Duolingo or high school language classes, but not enough to converse.
 
 #### Organizations in which I'm actively involved
 
