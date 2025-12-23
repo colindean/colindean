@@ -97,3 +97,4 @@ with old stuff on [BitBucket](https://bitbucket.com/colindean)
 and really old stuff from my early development days on [Launchpad](https://launchpad.net/~colindean).
 
 [![Colin Dean's RubyGems](https://img.shields.io/gem/u/colindean?style=social&logo=ruby&label=RubyGems)](https://rubygems.org/profiles/colindean)
+[![Colin Dean's PyPI projects](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fpypi.org%2Fuser%2Fcolindean%2F&search=(%5Cd%7B1%2C3%7D%3F)%20project(s)%3F&style=social&logo=python&logoColor=%23306998&label=PyPI&color=%23FFD43B)](https://pypi.org/user/colindean)
