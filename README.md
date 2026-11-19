@@ -25,7 +25,7 @@ I've learned bits of some others [^other_langs].
 
 #### Organizations in which I'm actively involved
 
-* <img src="https://www.cad.cx/images/2019/logos/target.png" height="16px" alt="Target Corp logo"/> [Target]'s Open Source Programs Office
+* <img src="https://www.cad.cx/images/2019/logos/target.png" height="16px" alt="Target Corp logo"/> [Target](https://target.com)'s [Open Source Programs Office](https://tech.target.com/open-source)
 * <img src="https://www.cad.cx/images/2023/logos/codeandsupply.png" height="16px" alt="Code & Supply logo"/> [Code & Supply](https://codeandsupply.co) ([gitlab](https://gitlab.com/codeandsupply) & [github](https://github.com/codeandsupply)), Pittsburgh's premiere community of software professionals that hosts [meetups](https://www.meetup.com/pittsburgh-code-supply) and conferences like [Abstractions](https://abstractions.io) and [Heartifacts](https://heartifacts.codeandsupply.co). We ran a [co-working and community space oriented toward software folks](https://codeandsupply.co/coworking) from 2017–2025.
 * <img src="https://www.cad.cx/images/2023/logos/codeandsupplyfund.png" height="16px" alt="Code & Supply logo"/> [Code & Supply Scholarship Fund](https://codeandsupply.fund) ([gitlab](https://gitlab.com/codeandsupplyfund)), a non-profit that helps folks attend and speak at conferences in Pittsburgh and beyond.
 * <img src="https://www.cad.cx/images/2023/logos/homebrew.svg" height="16px" alt="Homebrew logo"/> [Homebrew](https://brew.sh) ([github](https://github.com/homebrew)), the missing package manager for macOS (and Linux).
